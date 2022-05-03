@@ -9,7 +9,7 @@ the Things include:
 - FME Workbenches
 - FME Server Jobs
 - Geodatabases
-- ArcGIS Datamodels
+- ArcGIS Models
 - Docker containers
 - Postgres and almost any other database
 - Other people's code often in these languages:
