@@ -20,7 +20,7 @@ the Things include:
   - FME Cloud Automations
 
 
-When I'm not breaking(building) things - I'm organizing, documenting, planning - always striving for a cleaner approach, and clearer way. I develop data process flows, mentor others to build their own, and code in whatever language makes sense at the time.
+When I'm not breaking (I mean *building*) things - I'm organizing, documenting, planning - always striving for a cleaner approach, and clearer way. I develop data process flows, mentor others to build their own, and code in whatever language makes sense at the time.
 
 
 Drop back later and see what I've been up to.
