@@ -15,10 +15,12 @@ the Things include:
 - Other people's code often in these languages:
   - python, BASH, R, javascript, node, C++, C#
 - Data pipelines that could include all or some of these elments
-  - AWS (Lambda, API Gateway, Step Functions, Orchestrations, Message Queues, Fargate, EC2), Google APIs, 
+  - AWS (Lambda, API Gateway, Step Functions, Orchestrations, Message Queues, Fargate, EC2), 
+  - Google APIs
+  - FME Cloud Automations
 
 
-When I'm not breaking(building) things - I'm organizing, documenting, planning - always striving for a cleaner approach, and clearer way. I develop my own data process flows, mentor others to build their own, and code in whatever language makes sense at the time.
+When I'm not breaking(building) things - I'm organizing, documenting, planning - always striving for a cleaner approach, and clearer way. I develop data process flows, mentor others to build their own, and code in whatever language makes sense at the time.
 
 
 Drop back later and see what I've been up to.
